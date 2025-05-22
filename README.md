@@ -18,7 +18,7 @@
 `깃허브 닉네임/주제`의 양식을 따릅니다.  
 (ex. easyhooon/the-android-framework)
 
-## PR 규칙
+## Commit & PR 규칙
 
 `[Week주차] 깃허브 닉네임: 주제`의 양식을 따릅니다.  
 (ex. [Week1] easyhooon: The Android Framework)
