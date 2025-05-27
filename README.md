@@ -4,7 +4,7 @@
 ![image](https://github.com/user-attachments/assets/2c657bf2-1f45-412d-a84c-b3775bf25861)
 
 ## Collaborator
-[![contributors](https://contrib.rocks/image?repo=YAPP-Github/26th-Study-Manifest-Android-Interview)](https://https://github.com/YAPP-Github/26th-Study-Manifest-Android-Interview/graphs/contributors)
+[![contributors](https://contrib.rocks/image?repo=YAPP-Github/26th-Study-Manifest-Android-Interview)](https://github.com/YAPP-Github/26th-Study-Manifest-Android-Interview/contributors)
 
 ## 파일 제목
 `주제.md`의 양식을 따릅니다.  
