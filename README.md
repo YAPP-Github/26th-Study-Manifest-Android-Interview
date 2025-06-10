@@ -13,6 +13,12 @@
 | 1 | 2025.05.27 | pardessuccess | [The Android Framework](https://github.com/YAPP-Github/26th-Study-Manifest-Android-Interview/blob/main/pardessuccess/the-android-framework.md) |
 | 1 | 2025.05.27 | seoyoon513 | [The Android Framework](https://admitted-guppy-255.notion.site/Android-Framework-1ff5e09041be80a0b523e6594849b033?pvs=4) |
 | 1 | 2025.05.27 | wjdrjs00 | [The Android Framework](https://github.com/YAPP-Github/26th-Study-Manifest-Android-Interview/blob/main/wjdrjs00/The%20Android%20Framework.md) |
+| 2 | 2025.06.03 | easyhooon | [Android UI - Views](https://velog.io/@mraz3068/Android-UI-Views) |
+| 2 | 2025.06.03 | easyhooon | [Jetpack Library](https://velog.io/@mraz3068/Android-Jetpack-Library-53fndzvv) |
+| 2 | 2025.06.03 | pardessuccess | [Jetpack Library](https://github.com/YAPP-Github/26th-Study-Manifest-Android-Interview/blob/main/pardessuccess/the-android-framework.md) |
+| 2 | 2025.06.03 | seoyoon513 | [Android UI - Views](https://admitted-guppy-255.notion.site/Android-UI-Views-2025e09041be80ee9dd3ea03f00ef581) |
+| 2 | 2025.06.03 | seoyoon513 | [Jetpack Library](https://admitted-guppy-255.notion.site/Jetpack-Library-2025e09041be80ba9b81ee7ffaafe1b7) |
+| 2 | 2025.06.03 | wjdrjs00 | [Jetpack Library](https://github.com/YAPP-Github/26th-Study-Manifest-Android-Interview/blob/main/wjdrjs00/Jetpack%20Library.md) |
 |    |            |     | 업데이트 중 ~ |
 
 ## 파일 제목
