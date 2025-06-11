@@ -15,10 +15,18 @@
 | 1 | 2025.05.27 | wjdrjs00 | [The Android Framework](https://github.com/YAPP-Github/26th-Study-Manifest-Android-Interview/blob/main/wjdrjs00/The%20Android%20Framework.md) |
 | 2 | 2025.06.03 | easyhooon | [Android UI - Views](https://velog.io/@mraz3068/Android-UI-Views) |
 | 2 | 2025.06.03 | easyhooon | [Jetpack Library](https://velog.io/@mraz3068/Android-Jetpack-Library-53fndzvv) |
-| 2 | 2025.06.03 | pardessuccess | [Jetpack Library](https://github.com/YAPP-Github/26th-Study-Manifest-Android-Interview/blob/main/pardessuccess/the-android-framework.md) |
+| 2 | 2025.06.03 | pardessuccess | [Jetpack Library](https://velog.io/@zkwhdgur2/Jetpack-Library) |
 | 2 | 2025.06.03 | seoyoon513 | [Android UI - Views](https://admitted-guppy-255.notion.site/Android-UI-Views-2025e09041be80ee9dd3ea03f00ef581) |
 | 2 | 2025.06.03 | seoyoon513 | [Jetpack Library](https://admitted-guppy-255.notion.site/Jetpack-Library-2025e09041be80ba9b81ee7ffaafe1b7) |
 | 2 | 2025.06.03 | wjdrjs00 | [Jetpack Library](https://github.com/YAPP-Github/26th-Study-Manifest-Android-Interview/blob/main/wjdrjs00/Jetpack%20Library.md) |
+| 3 | 2025.06.10 | easyhooon | [Business Logic](https://velog.io/@mraz3068/Android-Business-Logic) |
+| 3 | 2025.06.10 | easyhooon | [Compose Fundamentals](https://velog.io/@mraz3068/Android-Compose-Fundametals) |
+| 3 | 2025.06.10 | pardessuccess | [Business Logic](https://velog.io/@zkwhdgur2/Android-Manifest-Interview-Business-Logic) |
+| 3 | 2025.06.10 | pardessuccess | [Compose Fundamentals](https://velog.io/@zkwhdgur2/Android-Manifest-Interview-Compose-Fundamentals) |
+| 3 | 2025.06.10 | seoyoon513 | [Business Logic](https://admitted-guppy-255.notion.site/Business-Logic-20d5e09041be806fa668e1031b8280a5?source=copy_link) |
+| 3 | 2025.06.10 | seoyoon513 | [Compose Fundamentals](https://admitted-guppy-255.notion.site/Compose-Fundamentals-20d5e09041be802387fadc242f288abd) |
+| 3 | 2025.06.10 | wjdrjs00 | [Business Logic](https://github.com/YAPP-Github/26th-Study-Manifest-Android-Interview/blob/main/wjdrjs00/Business%20Logic.md) |
+| 3 | 2025.06.10 | wjdrjs00 | [Compose Fundamentals](https://github.com/YAPP-Github/26th-Study-Manifest-Android-Interview/blob/main/wjdrjs00/Business%20Logic.md) |
 |    |            |     | 업데이트 중 ~ |
 
 ## 파일 제목
