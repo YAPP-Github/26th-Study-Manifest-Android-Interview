@@ -27,6 +27,14 @@
 | 3 | 2025.06.10 | seoyoon513 | [Compose Fundamentals](https://admitted-guppy-255.notion.site/Compose-Fundamentals-20d5e09041be802387fadc242f288abd) |
 | 3 | 2025.06.10 | wjdrjs00 | [Business Logic](https://github.com/YAPP-Github/26th-Study-Manifest-Android-Interview/blob/main/wjdrjs00/Business%20Logic.md) |
 | 3 | 2025.06.10 | wjdrjs00 | [Compose Fundamentals](https://github.com/YAPP-Github/26th-Study-Manifest-Android-Interview/blob/main/wjdrjs00/Business%20Logic.md) |
+| 4 | 2025.06.17 | 휴식 | [드로이드나이츠](https://www.droidknights.dev/) 컨퍼런스 참여 |
+| 5 | 2025.06.24 | easyhooon | [Compose Runtime](https://velog.io/@mraz3068/Android-Compose-Runtime-5k4a33m8) |
+| 5 | 2025.06.24 | easyhooon | [Compose UI](https://velog.io/@mraz3068/Android-Compose-UI) |
+| 5 | 2025.06.24 | pardessuccess | [Compose Runtime](https://velog.io/@zkwhdgur2/Android-Manifest-Interview-Compose-Runtime) |
+| 5 | 2025.06.24 | pardessuccess | [Compose UI](https://velog.io/@zkwhdgur2/Android-Manifest-Interview-Compose-UI) |
+| 5 | 2025.06.24 | seoyoon513 | [Compose Runtime](https://admitted-guppy-255.notion.site/Compose-Runtime-21c5e09041be80cf9506c5c1c1fb56e8?source=copy_link) |
+| 5 | 2025.06.24 | seoyoon513 | [Compose UI](https://admitted-guppy-255.notion.site/Compose-UI-21c5e09041be800897b4d2ea2219a5b1?source=copy_link) |
+| 5 | 2025.06.24 | wjdrjs00 | [Compose Runtime](https://github.com/YAPP-Github/26th-Study-Manifest-Android-Interview/blob/main/wjdrjs00/Compose%20Runtime.md) |
 |    |            |     | 업데이트 중 ~ |
 
 ## 파일 제목
