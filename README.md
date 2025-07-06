@@ -35,6 +35,7 @@
 | 5 | 2025.06.24 | seoyoon513 | [Compose Runtime](https://admitted-guppy-255.notion.site/Compose-Runtime-21c5e09041be80cf9506c5c1c1fb56e8?source=copy_link) |
 | 5 | 2025.06.24 | seoyoon513 | [Compose UI](https://admitted-guppy-255.notion.site/Compose-UI-21c5e09041be800897b4d2ea2219a5b1?source=copy_link) |
 | 5 | 2025.06.24 | wjdrjs00 | [Compose Runtime](https://github.com/YAPP-Github/26th-Study-Manifest-Android-Interview/blob/main/wjdrjs00/Compose%20Runtime.md) |
+|    |            | 이후 자유 주제 발표 ||
 | 6 | 2025.07.01 | easyhooon | [[Compose] M3 ModalBottomSheet 드래그 막는 법](https://velog.io/@mraz3068/Compose-M3-ModalBottomSheet-Drag-Disabled) |
 | 6 | 2025.07.01 | easyhooon | [[Android] FCM Background 에서 수신하여 진입 화면 변경 하는 법](https://velog.io/@mraz3068/Android-FCM-Background-Receive-Way) |
 | 6 | 2025.07.01 | wjdrjs00 | [[Android] Compose TextField UX 개선하기](https://wjd-gun.tistory.com/18) |
