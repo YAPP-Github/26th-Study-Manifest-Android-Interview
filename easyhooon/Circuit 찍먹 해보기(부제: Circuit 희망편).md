@@ -1,1 +1,1 @@
-https://speakerdeck.com/easyhooon/cirtcuit-jjigmeoghaebogi-buje-circuit-hyimangpyeon
+https://speakerdeck.com/easyhooon/circuit-jjigmeoghaebogi-buje-circuit-jeolmangpyeon
