@@ -39,8 +39,10 @@
 | 6 | 2025.07.01 | easyhooon | [[Compose] M3 ModalBottomSheet 드래그 막는 법](https://velog.io/@mraz3068/Compose-M3-ModalBottomSheet-Drag-Disabled) |
 | 6 | 2025.07.01 | easyhooon | [[Android] FCM Background 에서 수신하여 진입 화면 변경 하는 법](https://velog.io/@mraz3068/Android-FCM-Background-Receive-Way) |
 | 6 | 2025.07.01 | wjdrjs00 | [[Android] Compose TextField UX 개선하기](https://wjd-gun.tistory.com/18) |
-| 7 | 2025.07.08 | easyhooon | [Circuit 찍먹 해보기(부제: Circuit 희망편)](https://speakerdeck.com/easyhooon/cirtcuit-jjigmeoghaebogi-buje-circuit-hyimangpyeon) |
+| 7 | 2025.07.08 | easyhooon | [Circuit 찍먹 해보기(부제: Circuit 희망편)](https://speakerdeck.com/easyhooon/circuit-jjigmeoghaebogi-buje-circuit-hyimangpyeon) |
 | 7 | 2025.07.08 | seoyoon513 | [코루틴의 동시성과 예외 전파](https://velog.io/@syoon513/%EC%BD%94%EB%A3%A8%ED%8B%B4%EC%9D%98-%EB%8F%99%EC%8B%9C%EC%84%B1%EA%B3%BC-%EC%98%88%EC%99%B8-%EC%A0%84%ED%8C%8C) |
+| 8 | 2025.07.08 | easyhooon | [Circuit 찍먹 해보기(부제: Circuit 절망편)](https://speakerdeck.com/easyhooon/circuit-jjigmeoghaebogi-buje-circuit-jeolmangpyeon) |
+| 8 | 2025.07.08 | seoyoon513 | [Jetpack Compose에서 CameraX + MLKit으로 OCR을 구현해보자](https://velog.io/@syoon513/Jetpack-Compose%EC%97%90%EC%84%9C-CameraX-MLKit%EC%9C%BC%EB%A1%9C-OCR%EC%9D%84-%EA%B5%AC%ED%98%84%ED%95%B4%EB%B3%B4%EC%9E%90) |
 |    |            |     | 업데이트 중 ~ |
 
 ## 파일 제목
