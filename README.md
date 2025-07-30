@@ -35,7 +35,7 @@
 | 5 | 2025.06.24 | seoyoon513 | [Compose Runtime](https://admitted-guppy-255.notion.site/Compose-Runtime-21c5e09041be80cf9506c5c1c1fb56e8?source=copy_link) |
 | 5 | 2025.06.24 | seoyoon513 | [Compose UI](https://admitted-guppy-255.notion.site/Compose-UI-21c5e09041be800897b4d2ea2219a5b1?source=copy_link) |
 | 5 | 2025.06.24 | wjdrjs00 | [Compose Runtime](https://github.com/YAPP-Github/26th-Study-Manifest-Android-Interview/blob/main/wjdrjs00/Compose%20Runtime.md) |
-|    |            | 이후 자유 주제 발표 ||
+|    |            | 이후 자유 주제 발표 |
 | 6 | 2025.07.01 | easyhooon | [[Compose] M3 ModalBottomSheet 드래그 막는 법](https://velog.io/@mraz3068/Compose-M3-ModalBottomSheet-Drag-Disabled) |
 | 6 | 2025.07.01 | easyhooon | [[Android] FCM Background 에서 수신하여 진입 화면 변경 하는 법](https://velog.io/@mraz3068/Android-FCM-Background-Receive-Way) |
 | 6 | 2025.07.01 | wjdrjs00 | [[Android] Compose TextField UX 개선하기](https://wjd-gun.tistory.com/18) |
@@ -43,6 +43,9 @@
 | 7 | 2025.07.08 | seoyoon513 | [코루틴의 동시성과 예외 전파](https://velog.io/@syoon513/%EC%BD%94%EB%A3%A8%ED%8B%B4%EC%9D%98-%EB%8F%99%EC%8B%9C%EC%84%B1%EA%B3%BC-%EC%98%88%EC%99%B8-%EC%A0%84%ED%8C%8C) |
 | 8 | 2025.07.15 | easyhooon | [Circuit 찍먹 해보기(부제: Circuit 절망편)](https://speakerdeck.com/easyhooon/circuit-jjigmeoghaebogi-buje-circuit-jeolmangpyeon) |
 | 8 | 2025.07.15 | seoyoon513 | [Jetpack Compose에서 CameraX + MLKit으로 OCR을 구현해보자](https://velog.io/@syoon513/Jetpack-Compose%EC%97%90%EC%84%9C-CameraX-MLKit%EC%9C%BC%EB%A1%9C-OCR%EC%9D%84-%EA%B5%AC%ED%98%84%ED%95%B4%EB%B3%B4%EC%9E%90) |
+| 9 | 2025.07.22 | easyhooon | [[Android] 일회성 이벤트를 StateFlow, Compose의 State로 처리할 때 주의해야할 점](https://velog.io/@mraz3068/Handle-One-Time-Event-As-State) |
+| 9 | 2025.07.22 | seoyoon513 | [Circuit Navigation 사용 시 feature 모듈간의 참조는 어떻게 해결했을까?](https://velog.io/@syoon513/Circuit-Navigation-%EC%82%AC%EC%9A%A9-%EC%8B%9C-feature-%EB%AA%A8%EB%93%88%EA%B0%84-%EC%88%9C%ED%99%98-%EC%B0%B8%EC%A1%B0%EB%8A%94-%EC%96%B4%EB%96%BB%EA%B2%8C-%ED%95%B4%EA%B2%B0%ED%96%88%EC%9D%84%EA%B9%8C)
+| 10 | 2025.07.29 | 2차 UT세션을 준비를 위해 개발 집중|
 |    |            |     | 업데이트 중 ~ |
 
 ## 파일 제목
